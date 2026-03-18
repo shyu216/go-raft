@@ -1,6 +1,6 @@
 # CUHK - Fall 2022 Raft Assignment
 
-## My Journey with Go and Raft
+> **Disclaimer:** This is my coursework for CUHK - Fall 2022 Raft Assignment. Please do not copy my answers. Solve the problems yourself to truly understand Raft and Go — that's the whole point of the assignment!
 
 This repository documents my first hands-on experience with **Go** and my exploration of the **Raft consensus algorithm**.
 
@@ -36,6 +36,3 @@ Raft, on the other hand, was a completely new concept to me. Understanding how a
 2026/03/18 22:17:44 testOneSimpleDelete PASS
 All tests completed.
 ```
-
-> **Disclaimer:** This is my coursework for CUHK - Fall 2022 Raft Assignment. Please do not copy my answers. Solve the problems yourself to truly understand Raft and Go — that's the whole point of the assignment!
-
