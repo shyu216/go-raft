@@ -28,17 +28,14 @@ Raft, on the other hand, was a completely new concept to me. Understanding how a
 
 ```
 === Test Results ===
-testOneCandidateStartTwoElection PASS
-testTwoCandidateForElection PASS
-testSplitVote PASS
-testAllForElection PASS
-testLeaderRevertToFollower PASS
-testOneSimpleDelete PASS
+2026/03/18 22:16:16 testOneCandidateStartTwoElection PASS
+2026/03/18 22:16:31 testTwoCandidateForElection PASS
+2026/03/18 22:16:46 testSplitVote PASS
+2026/03/18 22:16:59 testAllForElection PASS
+2026/03/18 22:17:13 testLeaderRevertToFollower PASS
+2026/03/18 22:17:44 testOneSimpleDelete PASS
 All tests completed.
 ```
 
 > **Disclaimer:** This is my coursework for CUHK - Fall 2022 Raft Assignment. Please do not copy my answers. Solve the problems yourself to truly understand Raft and Go — that's the whole point of the assignment!
 
----
-
-*First written: 2026-03-18*
