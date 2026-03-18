@@ -3,6 +3,8 @@ module cuhk/tests
 go 1.13
 
 require (
-	github.com/golang/protobuf v1.3.2
+	cuhk/tests/raft v0.0.0
 	google.golang.org/grpc v1.24.0
 )
+
+replace cuhk/tests/raft => ./raft
